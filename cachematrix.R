@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+# These two functions reduces the computation efforts of calculating the inverse of a matrix many times by computing it only once, 
+# and storing it, so that as long as the matrix is not changed we do not need to compute the inverse more then once.
 
 ## Write a short comment describing this function
 # This function takes an (optional) input of a matrix (square) and returns a 'special' matrix made out of it.
